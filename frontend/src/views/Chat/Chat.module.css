@@ -1,0 +1,62 @@
+/* .Chat {
+	width: 100%;
+	height: 93.5vh;
+	margin: 0;
+	padding: 1vh 1vw;
+	box-sizing: border-box;
+	font-size: 1em;
+} */
+
+.root {
+	/* width: 100%; */
+	/* height: 94%; */
+	/* margin: 0; */
+	padding: 2vh 2vw;
+	/* font-size: 1em; */
+	display: flex;
+	flex-direction: row;
+	align-items: flex-start;
+	/* justify-content: flex-end; */
+	/* overflow-x: hidden; */
+	overflow-y: auto;
+}
+.sidebar {
+	width: 140px;
+}
+.addRoom {
+	height: 140px;
+}
+/* .MsgWindow {
+	width: calc(100% - 140px);
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	font-size: 1em;
+	display: flex;
+	flex-direction: column-reverse;
+	overflow-y: auto;
+} */
+/*
+.Chat footer {
+	width: 100%;
+	height: 6%;
+	margin: 0;
+	padding: auto;
+	font-size: 1em;
+} */
+/*
+.themeSwitch {
+	width: 10%;
+}
+.themeSwitch span {
+	font-size: 0.8em;
+}
+.msgInput {
+	width: 75%;
+	margin: 0 1% 0 0;
+}
+.msgSend {
+	width: 10%;
+	margin: 0 0 0 1%;
+	text-align: center;
+}*/

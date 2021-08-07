@@ -1,0 +1,19 @@
+.themeSwitch {
+	width: 10%;
+}
+.themeSwitch span {
+	font-size: 0.8em;
+}
+.msgInput {
+	width: 75%;
+	margin: 0 1% 0 0;
+	/* display: inline-block;
+	vertical-align: middle; */
+}
+.msgSend {
+	width: 10%;
+	margin: 0 0 0 1%;
+	/* display: inline-block;
+	vertical-align: middle; */
+	text-align: center;
+}

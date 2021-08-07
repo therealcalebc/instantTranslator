@@ -1,0 +1,29 @@
+.ChatMessage {
+	width: 100%;
+	margin: 0;
+	padding: 1vh 1vw;
+	display: flex;
+	/* font-size: 1em; */
+}
+
+.systemMsg {
+	/* max-width: 75%; */
+	justify-content: flex-end;
+	/* font-size: 0.9em; */
+}
+
+.receivedMsg {
+	/* max-width: 75%; */
+	padding-right: 20%;
+	justify-content: flex-start;
+}
+
+.sentMsg {
+	/* max-width: 75%; */
+	padding-left: 20%;
+	justify-content: flex-end;
+}
+
+/* .ChatMessage p {
+	max-width: 75%;
+} */

@@ -1,0 +1,10 @@
+.root {
+	width: calc(100% - 140px);
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	font-size: 1em;
+	display: flex;
+	flex-direction: column-reverse;
+	overflow-y: auto;
+}
